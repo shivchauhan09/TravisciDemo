@@ -10,7 +10,8 @@
     tools:context="com.mytravis.MainActivity">
 
     <TextView
+        android:id="@+id/tv_hw"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!" />
+        android:text="Hello World!,I am travis from sourcefuse" />
 </RelativeLayout>
