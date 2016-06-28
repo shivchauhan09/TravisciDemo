@@ -12,6 +12,5 @@ public class MainActivity extends AppCompatActivity {
         findViewById(R.id.tv_hw);
 
 
-
     }
 }
